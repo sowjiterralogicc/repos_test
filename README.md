@@ -11,13 +11,19 @@ Download and Installing Jenkins and Java
        Pass Freestyle Job
       ====================
        1. I have entered into Dashboard and clicked on New Item for creating Node(Freestyle Project) and saved it.
-       2. I General tab I have given some description and seted periodically build option and i have given 
-           echo commands in execute windows batch command.
+       2. In the General tab I have given some description and setted periodically build option write (H/10 * * * *) and i have given 
+           "echo" commands in windows batch command.
        3. After that i applied and saved the changes.
+       4. click on the build now to execute my script in jenkins.
        
       Fail Freestyle Job
       ==================
-      1.same steps i have repeated as above but with some failed batch command so that it got failed
+       1. I have entered into Dashboard and clicked on New Item for creating Node(Freestyle Project) and saved it.
+       2. In the General tab I have given some description and in build triggers i have setted build after other projects are build  
+          option so that it will build after first job build and i have given some failed batch command so that it got failed
+       3. After that i applied and saved the changes.
+       4. click on the build now to execute my script in jenkins.
+   
 
  Creating Github account
  ======================
