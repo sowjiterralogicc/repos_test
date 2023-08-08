@@ -26,7 +26,7 @@ Download and Installing Jenkins and Java
 
      Gitbash Operations
     =====================
-    1.Gone to that particular jobs directory and I have given:
+    1.Go to that particular jobs directory and I have given:
             a)git init ===> To initialize .git folder
             b)git status ====> will show status of jobs if there are in red colour indicates that we need to add those files or folders
             c)git add . ==-=> added all folders means staged
