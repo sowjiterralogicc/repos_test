@@ -11,8 +11,8 @@ Download and Installing Jenkins and Java
        Pass Freestyle Job
       ====================
        1. I have entered into Dashboard and clicked on New Item for creating Node(Freestyle Project) and saved it.
-       2. I General tab I have given some description and seted periodically build option and i have given echo commands in execute 
-          windows batch command.
+       2. I General tab I have given some description and seted periodically build option and i have given 
+           echo commands in execute windows batch command.
        3. After that i applied and saved the changes.
        
       Fail Freestyle Job
