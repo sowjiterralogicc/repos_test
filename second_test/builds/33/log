@@ -1,0 +1,14 @@
+Started by upstream project "[8mha:////4FK6qb6tPuMyNm1Nwza1HLnUFy8iH72AIrMF2ga6iWfcAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyuEgYB/az8JP20zKLikviS1OISfQDMpKf+xQAAAA==[0mfirst_test" build number [8mha:////4BJoFBbTqMicncVE9GXOa5eHR7hLEDjzRzyXzizqqQz0AAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAwmoBn6WflJ+mmZRcUl8SWpxSX6JmYAdFVKTscAAAA=[0m46
+originally caused by:
+ Started by timer
+Running as SYSTEM
+Building in workspace C:\Users\Sowjanya N-3147\.jenkins\workspace\second_test
+[second_test] $ cmd /c call C:\Users\SOWJAN~1\AppData\Local\Temp\jenkins3472283840007073311.bat
+
+C:\Users\Sowjanya N-3147\.jenkins\workspace\second_test>ffffuyfy
+'ffffuyfy' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Sowjanya N-3147\.jenkins\workspace\second_test>exit 9009 
+Build step 'Execute Windows batch command' marked build as failure
+Finished: FAILURE

@@ -1,0 +1,17 @@
+Started by upstream project "[8mha:////4FK6qb6tPuMyNm1Nwza1HLnUFy8iH72AIrMF2ga6iWfcAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyuEgYB/az8JP20zKLikviS1OISfQDMpKf+xQAAAA==[0mfirst_test" build number [8mha:////4DzR9x26HN7SeDdPGjvQmnltDgsLg0epIo2nWyKTQihbAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAwmoBn6WflJ+mmZRcUl8SWpxSX6RsYAfQZ6aMcAAAA=[0m23
+originally caused by:
+ Started by user [8mha:////4Oseaqv6S4JHXXUA2t7is+/3k+vH5xA8VVw8/wG3koSCAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgZu/dLi1CL94vzyrEwApnBLuMAAAAA=[0mSowjanya
+Started by upstream project "[8mha:////4FK6qb6tPuMyNm1Nwza1HLnUFy8iH72AIrMF2ga6iWfcAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyuEgYB/az8JP20zKLikviS1OISfQDMpKf+xQAAAA==[0mfirst_test" build number [8mha:////4GkXQcGmUZ5nDFhvtgX+VAQTqFn2ZgDh6uO1B5TcwjhrAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAwmoBn6WflJ+mmZRcUl8SWpxSX6RiYA3pMe9scAAAA=[0m24
+originally caused by:
+ Started by user [8mha:////4Oseaqv6S4JHXXUA2t7is+/3k+vH5xA8VVw8/wG3koSCAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgZu/dLi1CL94vzyrEwApnBLuMAAAAA=[0mSowjanya
+Running as SYSTEM
+Building in workspace C:\Users\Sowjanya N-3147\.jenkins\workspace\second_test
+[second_test] $ cmd /c call C:\Users\SOWJAN~1\AppData\Local\Temp\jenkins9609157132028653154.bat
+
+C:\Users\Sowjanya N-3147\.jenkins\workspace\second_test>ffffuyfy
+'ffffuyfy' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Sowjanya N-3147\.jenkins\workspace\second_test>exit 9009 
+Build step 'Execute Windows batch command' marked build as failure
+Finished: FAILURE

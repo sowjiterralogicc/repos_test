@@ -1,0 +1,12 @@
+Started by user [8mha:////4Oseaqv6S4JHXXUA2t7is+/3k+vH5xA8VVw8/wG3koSCAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgZu/dLi1CL94vzyrEwApnBLuMAAAAA=[0mSowjanya
+Running as SYSTEM
+Building in workspace C:\Users\Sowjanya N-3147\.jenkins\workspace\second_test
+[second_test] $ cmd /c call C:\Users\SOWJAN~1\AppData\Local\Temp\jenkins12921103008283228989.bat
+
+C:\Users\Sowjanya N-3147\.jenkins\workspace\second_test>ffffuyfy
+'ffffuyfy' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\Sowjanya N-3147\.jenkins\workspace\second_test>exit 9009 
+Build step 'Execute Windows batch command' marked build as failure
+Finished: FAILURE

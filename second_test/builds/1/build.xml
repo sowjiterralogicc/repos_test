@@ -1,0 +1,49 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.model.Cause_-UpstreamCause>
+            <upstreamProject>first_test</upstreamProject>
+            <upstreamUrl>job/first_test/</upstreamUrl>
+            <upstreamBuild>23</upstreamBuild>
+            <upstreamCauses>
+              <hudson.model.Cause_-UserIdCause>
+                <userId>Sowji</userId>
+              </hudson.model.Cause_-UserIdCause>
+            </upstreamCauses>
+          </hudson.model.Cause_-UpstreamCause>
+          <int>1</int>
+        </entry>
+        <entry>
+          <hudson.model.Cause_-UpstreamCause>
+            <upstreamProject>first_test</upstreamProject>
+            <upstreamUrl>job/first_test/</upstreamUrl>
+            <upstreamBuild>24</upstreamBuild>
+            <upstreamCauses>
+              <hudson.model.Cause_-UserIdCause>
+                <userId>Sowji</userId>
+              </hudson.model.Cause_-UserIdCause>
+            </upstreamCauses>
+          </hudson.model.Cause_-UpstreamCause>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+  </actions>
+  <queueId>24</queueId>
+  <timestamp>1691471628319</timestamp>
+  <startTime>1691471628348</startTime>
+  <result>FAILURE</result>
+  <duration>311</duration>
+  <charset>windows-1252</charset>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>C:\Users\Sowjanya N-3147\.jenkins\workspace\second_test</workspace>
+  <hudsonVersion>2.417</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits class="java.util.Collections$UnmodifiableSet">
+    <c class="sorted-set"/>
+  </culprits>
+</build>

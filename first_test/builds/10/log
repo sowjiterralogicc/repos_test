@@ -1,0 +1,14 @@
+Started by timer
+Running as SYSTEM
+Building in workspace C:\Users\Sowjanya N-3147\.jenkins\workspace\first_test
+[first_test] $ cmd /c call C:\Users\SOWJAN~1\AppData\Local\Temp\jenkins2061591414073891658.bat
+
+C:\Users\Sowjanya N-3147\.jenkins\workspace\first_test>cd
+C:\Users\Sowjanya N-3147\.jenkins\workspace\first_test
+
+C:\Users\Sowjanya N-3147\.jenkins\workspace\first_test>python newfile.py 
+python: can't open file 'C:\\Users\\Sowjanya N-3147\\.jenkins\\workspace\\first_test\\newfile.py': [Errno 2] No such file or directory
+
+C:\Users\Sowjanya N-3147\.jenkins\workspace\first_test>exit 2 
+Build step 'Execute Windows batch command' marked build as failure
+Finished: FAILURE

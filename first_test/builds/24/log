@@ -1,0 +1,11 @@
+Started by user [8mha:////4Oseaqv6S4JHXXUA2t7is+/3k+vH5xA8VVw8/wG3koSCAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgZu/dLi1CL94vzyrEwApnBLuMAAAAA=[0mSowjanya
+Running as SYSTEM
+Building in workspace C:\Users\Sowjanya N-3147\.jenkins\workspace\first_test
+[first_test] $ cmd /c call C:\Users\SOWJAN~1\AppData\Local\Temp\jenkins3329697408621475739.bat
+
+C:\Users\Sowjanya N-3147\.jenkins\workspace\first_test>echo "..." 
+"..."
+
+C:\Users\Sowjanya N-3147\.jenkins\workspace\first_test>exit 0 
+Triggering a new build of [8mha:////4A08TYIfqdrB7i/trKoCsFnDmtbk0dDMIFb1TA5JfQ/5AAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgZB/az8JP3iVKDqlPiS1OISfQDZkMjZxgAAAA==[0msecond_test
+Finished: SUCCESS
